@@ -15,6 +15,7 @@
                     "chatgpt-api",
                     "language"
                 ],
+                
                 "multilingual_descriptions": {
                     "en": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
                     "ja": "このリポジトリには、ChatGPTをより効果的に使用するためのChatGPTプロンプトのキュレーションが含まれています。",
