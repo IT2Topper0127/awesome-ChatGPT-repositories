@@ -1549,7 +1549,6 @@ _Updated on February 27, 2024_ (A total of 1443 repositories listed.)
  * [yakGPT](https://github.com/yakgpt/yakgpt) - Locally running, hands-free ChatGPT UI
  * [GalTransl](https://github.com/cx2333-gt/galtransl) - 支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案
  * [MoneyPrinter](https://github.com/fujiwarachoki/moneyprinter) - Automate Creation of YouTube Shorts using MoviePy.
- * [ChatGPT-DeMod](https://github.com/4as/chatgpt-demod) - Tampermonkey/Greasemonkey script that hides the moderation results when communicating with ChatGPT.
  * [gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper) - GPT based autonomous agent designed to create personalized newspapers tailored to user preferences.
  * [CoGPT](https://github.com/geniucker/cogpt) - Hmm Copilot or GPT? Who knows. Get access to gpt-4 via copilot.
 
