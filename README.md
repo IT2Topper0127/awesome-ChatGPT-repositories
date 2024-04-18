@@ -11,8 +11,6 @@ Your contributions are always welcome! Before contributing, please read [the gui
 
 [English](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.en.md) | [日本語 (Japanese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.ja.md) | [繁體中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hant.md) | [简体中文 (Chinese) ](https://github.com/taishi-i/awesome-ChatGPT-repositories/blob/main/docs/README.zh-hans.md)
 
-
-
 **Reimplementations**
  * [LaMDA-rlhf-pytorch](https://github.com/conceptofmind/lamda-rlhf-pytorch) - Open-source pre-training implementation of Google's LaMDA in PyTorch. Adding RLHF similar to ChatGPT.
 
